@@ -1,0 +1,4 @@
+[submodule "auction"]
+	path = auction
+	url = https://github.com/Hyperspaceru/auction
+	branch = gh-pages
