@@ -5,3 +5,4 @@
 [submodule "rawguidconverter"]
 	path = rawguidconverter
 	url = https://github.com/Hyperspaceru/rawguidconverter
+	branch = gh-pages
