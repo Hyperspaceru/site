@@ -2,7 +2,3 @@
 	path = auction
 	url = https://github.com/Hyperspaceru/auction
 	branch = gh-pages
-[submodule "rawguidconverter"]
-	path = rawguidconverter
-	url = https://github.com/Hyperspaceru/rawguidconverter
-	branch = gh-pages
